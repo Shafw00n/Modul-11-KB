@@ -4,7 +4,12 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras import Sequential
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
 from sklearn.metrics import confusion_matrix, classification_report
+import tensorflow as tf
 import os
+
+# Set seed agar hasil stabil dan persis dengan modul
+tf.random.set_seed(0)
+np.random.seed(0)
 
 # PARAMETER
 IMG_SIZE = (224, 224)
@@ -21,7 +26,8 @@ train_data = datagen.flow_from_directory(
     batch_size=BATCH_SIZE,
     class_mode="binary",
     subset="training",
-    shuffle=True
+    shuffle=True,
+    seed=0
 )
 
 validation_data = datagen.flow_from_directory(
@@ -30,7 +36,8 @@ validation_data = datagen.flow_from_directory(
     batch_size=BATCH_SIZE,
     class_mode="binary",
     subset="validation",
-    shuffle=False
+    shuffle=False,
+    seed=0
 )
 
 # INFORMASI DATA
@@ -95,7 +102,6 @@ plt.grid()
 
 plt.tight_layout()
 plt.savefig("grafik_training.png")
-print("Grafik disimpan ke file grafik_training.png")
 try:
     plt.show(block=False)
 except Exception:
@@ -132,4 +138,3 @@ print(classification_report(y_true, y_pred, target_names=nama_kelas))
 
 # SIMPAN MODEL
 model.save("model_motor_mobil.keras")
-print("Model berhasil disimpan ke model_motor_mobil.keras")
