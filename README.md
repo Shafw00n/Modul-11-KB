@@ -10,7 +10,7 @@ Klik tombol di bawah ini untuk langsung membuka notebook di Google Colab:
 
 | Materi Praktikum | Buka di Google Colab |
 | :--- | :--- |
-| **Praktikum 11.1 → 11.2 → 11.3 (satu notebook, berurutan)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shafw00n/Modul-11-KB/blob/main/Praktikum_11.1-11.3_Gabungan.ipynb) |
+| **Praktikum 11.1, 11.2, 11.3 (satu notebook, berurutan)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shafw00n/Modul-11-KB/blob/main/Praktikum_11.1-11.3_Gabungan.ipynb) |
 | **Kompilasi Lengkap Seluruh Modul** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akfaulin/Kecerdasan-Buatan-Pertemuan-11/blob/main/Modul_11_Praktikum_Lengkap.ipynb) |
 | **Praktikum 11.1: Klasifikasi Citra CNN (Mobil vs Motor)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akfaulin/Kecerdasan-Buatan-Pertemuan-11/blob/main/Praktikum%2011.1.ipynb) |
 | **Praktikum 11.2: Pemisahan Modul Train & Test 2 Kelas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akfaulin/Kecerdasan-Buatan-Pertemuan-11/blob/main/Praktikum%2011.2.ipynb) |
