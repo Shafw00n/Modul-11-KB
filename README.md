@@ -10,11 +10,9 @@ Klik tombol di bawah ini untuk langsung membuka notebook di Google Colab:
 
 | Materi Praktikum | Buka di Google Colab |
 | :--- | :--- |
-| **Praktikum 11.1, 11.2, 11.3 (satu notebook, berurutan)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shafw00n/Modul-11-KB/blob/main/Praktikum_11.1-11.3_Gabungan.ipynb) |
-| **Kompilasi Lengkap Seluruh Modul** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akfaulin/Kecerdasan-Buatan-Pertemuan-11/blob/main/Modul_11_Praktikum_Lengkap.ipynb) |
-| **Praktikum 11.1: Klasifikasi Citra CNN (Mobil vs Motor)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akfaulin/Kecerdasan-Buatan-Pertemuan-11/blob/main/Praktikum%2011.1.ipynb) |
-| **Praktikum 11.2: Pemisahan Modul Train & Test 2 Kelas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akfaulin/Kecerdasan-Buatan-Pertemuan-11/blob/main/Praktikum%2011.2.ipynb) |
-| **Praktikum 11.3: Klasifikasi Citra Multi-Kelas (5 Kelas Makanan)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akfaulin/Kecerdasan-Buatan-Pertemuan-11/blob/main/Praktikum%2011.3.ipynb) |
+| **Praktikum 11.1: Klasifikasi Citra CNN (Mobil vs Motor)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shafw00n/Modul-11-KB/blob/main/Praktikum%2011.1.ipynb) |
+| **Praktikum 11.2: Pemisahan Modul Train & Test 2 Kelas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shafw00n/Modul-11-KB/blob/main/Praktikum%2011.2.ipynb) |
+| **Praktikum 11.3: Klasifikasi Citra Multi-Kelas (5 Kelas Makanan)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shafw00n/Modul-11-KB/blob/main/Praktikum%2011.3.ipynb) |
 | **Latihan: Klasifikasi Daun Tanaman (*Plant Leaves*)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akfaulin/Kecerdasan-Buatan-Pertemuan-11/blob/main/Latihan.ipynb) |
 | **Tugas: Sistem Login Verifikasi Wajah 3 Mahasiswa** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akfaulin/Kecerdasan-Buatan-Pertemuan-11/blob/main/Tugas.ipynb) |
 
@@ -38,7 +36,6 @@ Klik tombol di bawah ini untuk langsung membuka notebook di Google Colab:
 ├── Praktikum 11.1.ipynb            # Jupyter Notebook Praktikum 11.1
 ├── Praktikum 11.2.ipynb            # Jupyter Notebook Praktikum 11.2
 ├── Praktikum 11.3.ipynb            # Jupyter Notebook Praktikum 11.3
-├── Praktikum_11.1-11.3_Gabungan.ipynb # Praktikum 11.1, 11.2, 11.3 berurutan
 ├── Latihan.ipynb                   # Jupyter Notebook Latihan
 ├── Tugas.ipynb                     # Jupyter Notebook Tugas
 ├── Modul_11_Praktikum_Lengkap.ipynb# Notebook Gabungan Seluruh Modul dengan Output Lengkap
